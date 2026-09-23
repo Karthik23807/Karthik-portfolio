@@ -1,4 +1,4 @@
-import "./WhyMe.css";
+import "./whyMe.css";
 
 const reasons = [
   { title: "Responsive Design", desc: "Websites that look great on every device." },
