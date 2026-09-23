@@ -26,7 +26,7 @@ const Navbar = () => {
         {/* Logo Section */}
         <a href="#home" className="nav-logo">
           <img
-            src="/images/logo.png"
+            src="src\assets\images\logo.png"
             alt="Karthik S. Logo"
             className="logo-icon"
           />

@@ -1,5 +1,5 @@
 import "./Hero.css";
-
+import karthikImg from '../assets/images/Karthik.jpg';
 
 const Hero = () => {
   return (
@@ -33,11 +33,7 @@ const Hero = () => {
 
         <div className="hero-visual reveal">
           <div className="hero-image-wrapper">
-            <img
-              src="public\images\Karthik.jpg"
-              alt="Karthik S."
-              className="hero-image"
-            />
+            <img src={karthikImg} alt="Karthik S." className="hero-image" />          
           </div>
         </div>
       </div>
