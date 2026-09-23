@@ -1,0 +1,17 @@
+.resume-box {
+  background: linear-gradient(135deg, rgba(6, 182, 212, 0.1), rgba(59, 130, 246, 0.05));
+  border: 1px solid var(--accent);
+  border-radius: 20px;
+  padding: 60px 40px;
+  text-align: center;
+}
+
+.resume-box h2 {
+  font-size: 1.6rem;
+  margin-bottom: 12px;
+}
+
+.resume-box p {
+  color: var(--text-secondary);
+  margin-bottom: 24px;
+}
