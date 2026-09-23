@@ -1,15 +1,14 @@
 import { useEffect } from "react";
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import About from "./components/About";
-import Skills from "./components/Skills";
-import Projects from "./components/Projects";
-import Services from "./components/Services";
-import WhyMe from "./components/WhyMe";
-import ResumeCTA from "./components/ResumeCTA";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
-
+import Navbar from "./components/navbar";
+import Hero from "./components/hero";
+import About from "./components/about";
+import Skills from "./components/skills";
+import Projects from "./components/projects";
+import Services from "./components/services";
+import WhyMe from "./components/whyme";
+import ResumeCTA from "./components/resumeCTA";
+import Contact from "./components/contact";
+import Footer from "./components/footer";
 function App() {
   useEffect(() => {
     const reveals = document.querySelectorAll(".reveal");
