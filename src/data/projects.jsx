@@ -15,7 +15,7 @@ export const projects = [
     title: "Visual Furniture", 
     description: "A responsive e-commerce website for showcasing furniture products with a modern and user-friendly shopping interface.",
     stack: ["HTML5", "CSS3", "JavaScript", "React.js"],
-    liveLink: "https://visualfurniture.netlify.app/",
+    liveLink: "https://visalfurniture.netlify.app/",
     image: furnitureImg, 
   },
 ];
